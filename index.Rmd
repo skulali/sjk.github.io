@@ -4,9 +4,22 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 # This is Jeff's awesome website
 
+Here is a gif of elmo
+
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+You can add text
+
+* and lists
+* with extra bullets
+
+You can *FORMAT* and **bold?**
+
+This is a [link](https://www.google.com/) to a good data science tool. Here's a link to [P8105](https://p8105.com/). Here's a link to the [about](about.html) page
+
+
+
