@@ -21,5 +21,8 @@ You can *FORMAT* and **bold?**
 
 This is a [link](https://www.google.com/) to a good data science tool. Here's a link to [P8105](https://p8105.com/). Here's a link to the [about](about.html) page
 
+# Other stuff on this page
+
+Definitely there is [plotly](plotly.html) stuff!
 
 
